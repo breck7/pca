@@ -1,1 +1,1 @@
-exports.PCA = require('./pca');
+exports.PCA = require("./pca")
